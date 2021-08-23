@@ -1,0 +1,14 @@
+.melodic {
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+}
+
+button {
+  padding: 20px;
+  margin: 10px;
+}
+
+.melodic span {
+  font-size: 100px;
+}
